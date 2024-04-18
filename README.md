@@ -83,6 +83,8 @@
  * [LeanCloud](https://leancloud.cn) -
 针对开发者和初期产品基本免费，提供移动应用云端数据存储，消息推送，应用内统计和实时通信。
 
+* [MemFire Cloud](https://cloud.memfiredb.com/auth/login?from=1HdvKv&utm_source=githubfree)  - 基于Supabase与MemFireDB打造的一站式后端服务，为应用开发者提供云数据库、云存储、自动生成API、用户认证与授权、静态托管等功能，加速移动/Web/IoT/游戏等应用的开发，并降低运维成本。为个人应用开发者提供免费版套餐。
+
 ## Security and PKI
  * [SCANV](http://www.scanv.com/) - 免费版提供有限的 API 接口
  
